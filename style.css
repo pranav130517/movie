@@ -1,0 +1,16 @@
+body{
+ background: linear-gradient(to right, #fdc830, #f37335)
+}
+ h1{
+	text-align: center;
+	font-family: monospace;
+}
+p{
+	font-size: 20px;
+	font-family: monospace;
+	padding-top: 1px;
+}
+.item{
+	height: 600px;
+	width: 50%;
+}
